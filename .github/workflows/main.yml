@@ -30,4 +30,4 @@ jobs:
           CHAOXING_PASSWORD: ${{ secrets.CHAOXING_PASSWORD }}
           CHAOXING_COURSE_LIST: ${{ secrets.CHAOXING_COURSE_LIST }}
         run: python main.py -u 18879396094 -p Lzq15279385473 -l 267031980
-#Fix again
+#Fix again and help lzq
